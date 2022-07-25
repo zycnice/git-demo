@@ -16,4 +16,4 @@ hello zyc! hello git!
 hello zyc! hello git!
 hello zyc! hello git!
 hello zyc! hello git!
-hello zyc! hello git!
+hello zyc! hello git! hot-fix test
